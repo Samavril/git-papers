@@ -1,4 +1,4 @@
-Sam's paper 
+Sam's paper which is in collaboration with Nelson Corion
 
 These are the recent changes that I a making to this document
 
